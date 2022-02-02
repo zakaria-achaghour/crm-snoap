@@ -1,0 +1,118 @@
+body {
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.principle {
+    display: none;
+}
+
+hr {
+    display: none;
+}
+
+.titleprint {
+    display: inline;
+    font-size: larger;
+    font-weight: bolder;
+    margin-left: 20px;
+}
+
+.resprint {
+    display: inline;
+    margin-left: 5px;
+}
+
+#DataTables_Table_0_length, div.dataTables_wrapper .ui-widget-header {
+    display: none;
+}
+
+.widget-content {
+    border: 1px solid #000 !important;
+    margin-top: 20%;
+}
+
+/* Strat modification for the last group div */
+.last_group{
+    margin-bottom: 5%;
+}
+.inner_last_grp
+{
+    width: 90%;
+    margin-left: 38px;
+}
+.inner_last_grp > .titleprint{
+    margin-left: 0px;
+}
+/* End modification for the last group div */
+
+.widget-title {
+    border: 1px solid #000 !important;
+    border-bottom: none;
+}
+
+th, td, tr {
+    text-align: center;
+    border: 1px solid #000 !important;
+    font-size: 11px;
+}
+
+th {
+    font-weight: 800;
+    border-top: none;
+}
+
+.visa {
+    /* margin-top: 20px;*/
+    font-size: 16px;
+    font-weight: 700;
+    /*text-align: end;
+    margin-right: 35px; */
+    position: absolute;
+    left: 75%;
+    top: 80%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.visa_benificiere {
+    /* margin-top: 20px;*/
+    font-size: 16px;
+    font-weight: 700;
+    /*text-align: end;
+        margin-right: 35px; */
+    position: absolute;
+    left: 24%;
+    top: 80%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.table-bordered thead:first-child tr:first-child>th:last-child, .table-bordered thead:first-child tr:first-child>th:first-child, .table-bordered tbody:last-child tr:last-child>td:first-child, .table-bordered tbody:last-child tr:last-child>td:last-child {
+    border-top-right-radius: 0px !important;
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+}
+
+.widget-title span.icon {
+    border-right: none;
+    display: none;
+}
+
+.group-print div {
+    width: 40%;
+    display: inline-block;
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+
+.widget-box {
+    border: none;
+}
+
+.logo-print {
+    position: relative;
+    top: 0%;
+    margin: 10px;
+    width: 300px;
+}

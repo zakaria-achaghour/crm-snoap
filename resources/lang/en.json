@@ -1,0 +1,188 @@
+{
+    "Welcome": "Welcome to Laravel!",
+
+
+    "Add": "Add",
+    "Added": "Added",
+    "Updated": "Updated",
+    "Create": "Create",
+    "Edit": "Edit",
+    "Delete": "Delete",
+    "Update": "Update",
+    "Upload": "Upload a different photo",
+    "Save": "Save",
+    "Close": "Close",
+    "Back": "Back",
+
+    "Profile": "Profile",
+    "Edit Profile": "Edit Profile",
+
+    "Users": "Users",
+    "Add User": "Add user",
+    "Edit User": "Edit user",
+    "List Of Users": "List of users",
+
+    "Fournisseurs": "Fournisseurs",
+    "Add Fournisseur": "Add Fournisseur",
+    "Edit Fournisseur": "Edit Fournisseur",
+    "List Of Fournisseurs": "List of Fournisseurs",
+    "Fournisseur": "Fournisseur",
+
+    "Articles": "Articles",
+    "Add Article": "Add Article",
+    "Edit Article": "Edit Article",
+    "List Of Articles": "List of Articles",
+    "Article": "Article",
+
+    "Entrances": "Entrance",
+    "Add Entrance": "Add Entrance",
+    "Edit Entrance": "Edit Entrance",
+    "List Of Entrances": "List of Entrances",
+    "Entrance": "Entrance",
+
+    "Stocks": "Stocks",
+    "List Of Stocks": "List of Stocks",
+   
+    
+    "Devis": "Devis",
+    "Add Devis": "Add Devis",
+    "Edit Devis": "Edit Devis",
+    "List Of Devis": "List of Devis",
+
+    "Units ": "Units",
+    "Add Unit": "Add Unit",
+    "Edit Unit": "Edit Unit",
+    "List Of Units": "List of Units",
+    "Unit": "Unit",
+   
+
+    "Cities": "Cities",
+    "Add City": "Add City",
+    "Edit City": "Edit city",
+    "List Of Cities": "List of cities",
+    "City": "City",
+    "Clients by city":"Clients by city",
+
+    "Regions": "Regions",
+    "Add Region": "Add region",
+    "Edit Region": "Edit region",
+    "List Of Regions": "List of regions",
+    "Region": "Region",
+    "Clients by region":"Clients by region",
+
+    "Clients": "Clients",
+    "Add client": "Add client",
+    "Edit client": "Edit client",
+    "List of clients": "List of clients",
+    "New client": "New client",
+
+    "Name Pharmacy": "Pharmacy name",
+    "Type": "Type",
+    "Patent": "Patent",
+    "ICE": "ICE",
+    "IF": "IF",
+    "Authorization": "Authorization",
+    "RC": "RC",
+    "Address":"Address",
+    "Pharmacist":"Pharmacist",
+    "CIN":"CIN",
+    "Status":"Status",
+    "Documents":"Documents",
+    "Diploma":"Diploma",
+    "File":"File",
+    "Blacklist":"Blacklist",
+    "Blocking pattern":"Blocking pattern",
+    "Code Sage":"Code Sage",
+    "Edit ":"Edit",
+    "Actions":"Actions",
+    "Block":"Block",
+    "Unblock":"Unblock",
+    "Blocked":"Blocked",
+    "Not blocked":"Not blocked",
+    "Activate":"Activate",
+    "Deactivate":"Deactivate",
+    "Pharmacy":"Pharmacy",
+    "Wholesaler":"Wholesaler", 
+    "By city":"By city",
+    "Blocked Customers":"Blocked Customers",
+    "Missing documents":"Missing documents",
+    "Missing information":"Missing information",
+    "All":"All",
+    "Blocked Users":"Blocked Users",
+    "Statistics":"Statistics",
+    "Disconnection" :"Sign out" ,
+    "success":"Success",
+    "Block / Unblock":"Block / Unblock",
+
+
+
+    "Delete Confirmation": "Delete Confirmation",
+    "Qestion Delete": "Are you sure want to delete ?",
+
+
+    "Dashboard": "Dashboard",
+    "Register": "Register",
+    "Login": "Login",
+    "Logout": "Logout",
+    "Sign-in": "Sign-in",
+    "Remember me": "Remember me",
+    "Login!": "Login!",
+
+
+    "By": "By",
+
+    "Current Password": "Current Password",
+    "New Password": "New Password",
+    "Confirm Password": "Confirm Password",
+
+    "Role": "Role",
+    "Select Role": "Select Role",
+    "Username": "Username",
+    "Firstname": "Firstname",
+    "Firstname Here": "Firstname here",
+    "Lastname": "Lastname",
+    "Lastname Here": "Lastname here",
+    "Name": "Name",
+
+    "Gender": "Gender",
+    "Contact": "Contact",
+    "Name:": "Name:",
+    "E-mail": "E-mail",
+    "Password": "Password",
+    "Title": "Title",
+    "Content": "Content",
+    "Thumbnail": "Thumbnail",
+
+    "Male": "Male",
+    "Female": "Female",
+
+    "Showing": "Showing",
+    "Account Setting": "Account Setting",
+    "Language": "Language",
+    "All Rights Reserved by": "All Rights Reserved by",
+
+    "Loc Missing Documents":"List of Clients Missing Documents",
+    "Loc With Missing Information":"List of Clients With Missing Information",
+    "Recovery":"Recovery",
+    "Amount":"Amount",
+    "Amount paid":"Amount paid",
+    "Collection date":"Recovery date",
+    "Add a Check":"Add a Check",
+    "Edit a Check":"Edit a Check",
+    "Rest":"Rest",
+    "Paid":"Paid",
+    "Unpaid":"Unpaid",
+    "unpaid checks per year":"unpaid checks per year",
+    "year":"Year",
+    "Number of unpaid checks":"Number of unpaid checks",
+
+    "designation":"Designation",
+    "entitled":"Entitled",
+    "Visites":"Visits",
+    "New_Visites":"New visits",
+    "List_of_visits":"List of visits"
+
+
+
+
+}
